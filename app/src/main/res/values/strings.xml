@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FouthApplication</string>
+    <string name="记录应用程序使用的次数">记录应用程序使用的次数</string>
+    <string name="读取文件内容">读取文件内容</string>
+    <string name="读取文件">读取文件</string>
+    <string name="文件内容">文件内容</string>
+    <string name="button">Button</string>
+    <string name="存入数据">存入数据</string>
+    <string name="数据库访问">数据库访问</string>
+    <string name="数据库访问测试">数据库访问测试</string>
+    <string name="插入">插入</string>
+    <string name="file">file</string>
+    <string name="textview">TextView</string>
+    <!--<string name="textview">TextView</string>-->
+    <!--<string name="textview">TextView</string>-->
+    <string name="title">title</string>
+    <string name="news">news</string>
+    <string name="text2">text2</string>
+    <string name="text1">text1</string>
+</resources>
